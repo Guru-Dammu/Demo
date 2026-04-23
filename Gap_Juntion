@@ -7,11 +7,15 @@
 </head>
 <body>
     <h1>Welcome to My Website</h1>
+<<<<<<< HEAD
     <p>This is a simple paragraph of text. 
         <select>
         <option>Option 1</option>
         <option>Option 2</option>
     </select>
     </p>
+=======
+    <p>This is a simple paragraph of text.<button> Lad</button></p>
+>>>>>>> main
 </body>
 </html>
